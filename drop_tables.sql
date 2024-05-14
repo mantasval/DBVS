@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS Grojarascio_Daina, Grojarastis, Pamegta_Daina, Daina, Albumas, Klausytojas, Atlikejas CASCADE;
