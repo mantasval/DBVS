@@ -1,0 +1,2 @@
+Kiek raktų turi?
+- Vieną, nes raktas = mažiausias atributų poaibis vienareikšmiškai apibrėžiantį įrašą (visus Lentelės atributų reikšmes).
